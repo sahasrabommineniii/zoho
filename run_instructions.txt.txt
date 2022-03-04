@@ -1,0 +1,30 @@
+Hello,
+
+I have written codes for login and signup pages. I was able to create backend for the contacts application.
+
+INSTRUCTIONS:
+
+Get Node modules and you can run - npm start in the loginp folder to check the working of signup pages.
+
+To check the contact application :
+
+1.You need to create a folder in your C drive for this - data/db
+
+2.Start mongodb connection in cmd (run as admin) -
+C:\Program Files\MongoDB\Server\5.0\bin\mongod.exe" --dbpath="c:\data"
+
+3. Open a node cmd and cd to contactlist and write 'nodemon'
+
+4. Open a second node cmd and cd to contactlist and write 'npm start'
+
+NOTE:
+To check working through Postman: localhost/3000/contacts to retrieve data and localhost/3000/contact to push data.
+
+Following the above instrutions you can check the working of my code.
+
+
+Thank you,
+Sahasra B.
+
+
+
